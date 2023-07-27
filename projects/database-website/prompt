@@ -1,0 +1,1 @@
+Code me a website using flask and sqlalchemy that has buttons that will call a stored procedure in SQL Server.  I would also like this site styled with CSS.  Also, create a menu drawer on the left with a button to be able to expand and collapse that drawer.  This is where I will store my buttons to different pages of the webapp.
